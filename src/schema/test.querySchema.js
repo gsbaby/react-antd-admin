@@ -93,7 +93,7 @@ module.exports = [
   {
     key: 'height',
     title: '身高(cm)',
-    placeholder: '哈哈哈',
+    placeholder: '172',
     dataType: 'float',  // 小数等值查询
   },
   {
